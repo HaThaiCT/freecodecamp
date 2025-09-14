@@ -1,0 +1,10 @@
+body {
+    background-color: rosybrown;
+    font-size: Arial;
+    fallback: sans-serif;
+}
+
+p {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
